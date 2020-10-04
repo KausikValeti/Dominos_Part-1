@@ -1,0 +1,17 @@
+Distribution Center IDs,Address,Latitude,Longitude,Supply Capacity (pizza/week),Dist Cost ($/mile)
+DC 1,"17605 Commerce Dr. New Boston, MI 48164",42.17862,-83.3912,"400,000",1.64
+DC 2,"1638 Dolwick Dr. Erlanger, KY 41018",39.0563,-84.6221,"350,000",1.68
+DC 3,"8271 Anderson Ct Odenton, MD 2111",39.09686,-76.6925,"450,000",1.79
+DC 4,"3100 Waterfield Dr. Garner, NC 27529",35.67941,-76.5434,"350,000",1.68
+DC 5,"14 International Dr. East Granby, CT 06026",41.92758,-72.712,"250,000",1.79
+DC 6,"4055 ROYAL DR NW, KENNESAW, GA 3014",34.05179,-84.6072,"475,000",1.68
+DC 7,"1 Cermak Blvd. St. Peters, MO 63376",38.80889,-90.6428,"475,000",1.64
+DC 8,"3355 Mike Collins Dr. Eagan, MN 55121",44.83611,-93.1312,"400,000",1.64
+DC 9,"7600 American Way Groveland, FL",28.63673,-81.8283,"400,000",1.68
+DC 10,"18251 E Petroleum Dr. Baton Rouge, LA 70809",30.350261,-91.0189596,"345,000",1.68
+DC 11,"900 W Freeway St. Grand Prairie, TX, 75051",32.73793,-97.0201,"350,000",1.67
+DC 12,"10252 E 51st Ave. Denver, CO 80238",39.79017,-104.869,"350,000",1.77
+DC 13,"5216 W Mohave St. Phoenix, AZ 85043",33.43157,-112.172,"300,000",1.77
+DC 14,"8005 South 266th St # 101 Kent, WA 98032",47.36242,-112.172,"475,000",1.77
+DC 15,"30852 San Antonio St. Hayward, CA 94544",37.61543,-122.048,"500,000",1.77
+DC 16,"301 South Rockefeller Ave. Ontario, CA 91761",34.06115,-117.554,"350,000",1.77
